@@ -22,7 +22,7 @@ I'm a passionate Software Developer skilled in building modern, efficient, and u
 
 ## 📫 Get in Touch
 - 📧 [Email](levashov04sergey@gmail.com)
-- 💼 [linkedIn](https://www.linkedin.com/feed/)
+- 💼 [linkedIn](https://www.linkedin.com/in/serhiy-levashov-36b5873a/)
 
 ## 📈 GitHub stats ✨
 
