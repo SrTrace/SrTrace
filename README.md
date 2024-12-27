@@ -1,10 +1,10 @@
 # SrTrace stats ⚡
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrTrace&theme=react)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrTrace&theme=react)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrTrace&theme=react)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrTrace&theme=react)]
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrTrace&theme=react&utcOffset=8)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrTrace&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrTrace&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrTrace&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrTrace&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrTrace&theme=react&utcOffset=8)
 
 <!--
 **SrTrace/SrTrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
